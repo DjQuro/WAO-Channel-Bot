@@ -1,0 +1,511 @@
+
+[ 2023-05-18 15:34:51,498 - INFO ] https://api.weareone.fm/v1/showplan/5/1
+[ 2023-05-18 15:34:51,499 - INFO ] https://api.weareone.fm/v1/showplan/6/1
+[ 2023-05-18 15:34:51,499 - INFO ] https://api.weareone.fm/v1/showplan/7/1
+[ 2023-05-18 15:34:51,499 - INFO ] https://api.weareone.fm/v1/showplan/8/1
+[ 2023-05-18 15:34:51,499 - INFO ] https://api.weareone.fm/v1/showplan/10/1
+[ 2023-05-18 15:34:51,499 - INFO ] https://api.weareone.fm/v1/showplan/11/1
+[ 2023-05-18 15:34:51,499 - INFO ] https://api.weareone.fm/v1/showplan/13/1
+[ 2023-05-18 15:34:51,499 - INFO ] https://api.weareone.fm/v1/showplan/14/1
+[ 2023-05-23 19:45:22,721 - INFO ] [TechnoBase.FM] Die Show Feel The Rhythm von Hatchel auf TechnoBase.FM startet um 23.05.2023 um 20:00 bis 22:00 - UID: 3369737349989
+[ 2023-05-24 19:45:26,118 - INFO ] [HardBase.FM] Die Show Feel The Rhythm (Hard Edition) von Hatchel auf HardBase.FM startet um 24.05.2023 um 20:00 bis 22:00 - UID: 3369910149989
+[ 2023-05-28 00:34:40,740 - INFO ] https://api.weareone.fm/v1/showplan/5/1
+[ 2023-05-28 00:34:40,741 - INFO ] https://api.weareone.fm/v1/showplan/6/1
+[ 2023-05-28 00:34:40,741 - INFO ] https://api.weareone.fm/v1/showplan/7/1
+[ 2023-05-28 00:34:40,741 - INFO ] https://api.weareone.fm/v1/showplan/8/1
+[ 2023-05-28 00:34:40,741 - INFO ] https://api.weareone.fm/v1/showplan/10/1
+[ 2023-05-28 00:34:40,741 - INFO ] https://api.weareone.fm/v1/showplan/11/1
+[ 2023-05-28 00:34:40,741 - INFO ] https://api.weareone.fm/v1/showplan/13/1
+[ 2023-05-28 00:34:40,741 - INFO ] https://api.weareone.fm/v1/showplan/14/1
+[ 2023-05-28 21:21:06,699 - INFO ] https://api.weareone.fm/v1/showplan/5/1
+[ 2023-05-28 21:21:06,700 - INFO ] https://api.weareone.fm/v1/showplan/6/1
+[ 2023-05-28 21:21:06,701 - INFO ] https://api.weareone.fm/v1/showplan/7/1
+[ 2023-05-28 21:21:06,701 - INFO ] https://api.weareone.fm/v1/showplan/8/1
+[ 2023-05-28 21:21:06,701 - INFO ] https://api.weareone.fm/v1/showplan/10/1
+[ 2023-05-28 21:21:06,701 - INFO ] https://api.weareone.fm/v1/showplan/11/1
+[ 2023-05-28 21:21:06,701 - INFO ] https://api.weareone.fm/v1/showplan/13/1
+[ 2023-05-28 21:21:06,701 - INFO ] https://api.weareone.fm/v1/showplan/14/1
+[ 2023-05-29 17:59:19,785 - INFO ] https://api.weareone.fm/v1/showplan/5/1
+[ 2023-05-29 17:59:19,786 - INFO ] https://api.weareone.fm/v1/showplan/6/1
+[ 2023-05-29 17:59:19,786 - INFO ] https://api.weareone.fm/v1/showplan/7/1
+[ 2023-05-29 17:59:19,786 - INFO ] https://api.weareone.fm/v1/showplan/8/1
+[ 2023-05-29 17:59:19,786 - INFO ] https://api.weareone.fm/v1/showplan/10/1
+[ 2023-05-29 17:59:19,786 - INFO ] https://api.weareone.fm/v1/showplan/11/1
+[ 2023-05-29 17:59:19,786 - INFO ] https://api.weareone.fm/v1/showplan/13/1
+[ 2023-05-29 17:59:19,786 - INFO ] https://api.weareone.fm/v1/showplan/14/1
+[ 2023-05-29 17:59:19,930 - INFO ] [TechnoBase.FM] Die Show Feel The Rhythm von Hatchel auf TechnoBase.FM startet um 29.05.2023 um 18:00 bis 19:00 - UID: 3370756149989
+[ 2023-05-30 20:45:59,571 - INFO ] [TechnoBase.FM] Die Show Feel The Rhythm von Hatchel auf TechnoBase.FM startet um 30.05.2023 um 21:00 bis 23:00 - UID: 3370954149989
+[ 2023-06-02 19:57:23,360 - INFO ] [Replay.FM] Die Show Feel The Rhythm (Retro Edition) von Hatchel auf Replay.FM startet um 02.06.2023 um 20:00 bis 22:00 - UID: 3371465349989
+[ 2023-06-04 13:53:26,405 - INFO ] [TechnoBase.FM] Die Show Feel The Rhythm von Hatchel auf TechnoBase.FM startet um 04.06.2023 um 14:00 bis 15:00 - UID: 3371764149989
+[ 2023-06-09 15:00:58,275 - INFO ] https://api.weareone.fm/v1/showplan/5/1
+[ 2023-06-09 15:00:58,276 - INFO ] https://api.weareone.fm/v1/showplan/6/1
+[ 2023-06-09 15:00:58,276 - INFO ] https://api.weareone.fm/v1/showplan/7/1
+[ 2023-06-09 15:00:58,277 - INFO ] https://api.weareone.fm/v1/showplan/8/1
+[ 2023-06-09 15:00:58,277 - INFO ] https://api.weareone.fm/v1/showplan/10/1
+[ 2023-06-09 15:00:58,277 - INFO ] https://api.weareone.fm/v1/showplan/11/1
+[ 2023-06-09 15:00:58,277 - INFO ] https://api.weareone.fm/v1/showplan/13/1
+[ 2023-06-09 15:00:58,277 - INFO ] https://api.weareone.fm/v1/showplan/14/1
+[ 2023-06-13 17:55:05,023 - INFO ] https://api.weareone.fm/v1/showplan/5/1
+[ 2023-06-13 17:55:05,023 - INFO ] https://api.weareone.fm/v1/showplan/6/1
+[ 2023-06-13 17:55:05,024 - INFO ] https://api.weareone.fm/v1/showplan/7/1
+[ 2023-06-13 17:55:05,024 - INFO ] https://api.weareone.fm/v1/showplan/8/1
+[ 2023-06-13 17:55:05,024 - INFO ] https://api.weareone.fm/v1/showplan/10/1
+[ 2023-06-13 17:55:05,024 - INFO ] https://api.weareone.fm/v1/showplan/11/1
+[ 2023-06-13 17:55:05,024 - INFO ] https://api.weareone.fm/v1/showplan/13/1
+[ 2023-06-13 17:55:05,024 - INFO ] https://api.weareone.fm/v1/showplan/14/1
+[ 2023-06-13 20:45:31,138 - INFO ] [TechnoBase.FM] Die Show Feel The Rhythm von Hatchel auf TechnoBase.FM startet um 13.06.2023 um 21:00 bis 23:00 - UID: 3373373349989
+[ 2023-06-24 23:59:15,262 - INFO ] https://api.weareone.fm/v1/showplan/5/1
+[ 2023-06-24 23:59:15,263 - INFO ] https://api.weareone.fm/v1/showplan/6/1
+[ 2023-06-24 23:59:15,263 - INFO ] https://api.weareone.fm/v1/showplan/7/1
+[ 2023-06-24 23:59:15,263 - INFO ] https://api.weareone.fm/v1/showplan/8/1
+[ 2023-06-24 23:59:15,263 - INFO ] https://api.weareone.fm/v1/showplan/10/1
+[ 2023-06-24 23:59:15,263 - INFO ] https://api.weareone.fm/v1/showplan/11/1
+[ 2023-06-24 23:59:15,263 - INFO ] https://api.weareone.fm/v1/showplan/13/1
+[ 2023-06-24 23:59:15,263 - INFO ] https://api.weareone.fm/v1/showplan/14/1
+[ 2023-06-28 20:45:16,578 - INFO ] [CoreTime.FM] Die Show Midweek Madness Part 3 von Hatchel auf CoreTime.FM startet um 28.06.2023 um 21:00 bis 22:00 - UID: 3375961749989
+[ 2023-07-05 19:45:02,319 - INFO ] [TechnoBase.FM] Die Show Feel The Rhythm von Hatchel auf TechnoBase.FM startet um 05.07.2023 um 20:00 bis 21:00 - UID: 3377164149989
+[ 2023-07-07 20:45:33,688 - INFO ] [Replay.FM] Die Show Feel The Rhythm (Retro Edition) von Hatchel auf Replay.FM startet um 07.07.2023 um 21:00 bis 22:00 - UID: 3377516949989
+[ 2023-08-01 19:46:20,837 - INFO ] https://api.weareone.fm/v1/showplan/5/1
+[ 2023-08-01 19:46:20,839 - INFO ] https://api.weareone.fm/v1/showplan/6/1
+[ 2023-08-01 19:46:20,839 - INFO ] https://api.weareone.fm/v1/showplan/7/1
+[ 2023-08-01 19:46:20,839 - INFO ] https://api.weareone.fm/v1/showplan/8/1
+[ 2023-08-01 19:46:20,839 - INFO ] https://api.weareone.fm/v1/showplan/10/1
+[ 2023-08-01 19:46:20,839 - INFO ] https://api.weareone.fm/v1/showplan/11/1
+[ 2023-08-01 19:46:20,839 - INFO ] https://api.weareone.fm/v1/showplan/13/1
+[ 2023-08-01 19:46:20,839 - INFO ] https://api.weareone.fm/v1/showplan/14/1
+[ 2023-08-08 21:44:56,134 - INFO ] [TechnoBase.FM] Die Show Feel My Rhythm von Hatchel auf TechnoBase.FM startet um 08.08.2023 um 21:45 bis 23:00 - UID: 3383052849989
+[ 2023-08-10 20:56:43,513 - INFO ] [HouseTime.FM] Die Show Feel The Rhythm (House Edition) von Hatchel auf HouseTime.FM startet um 10.08.2023 um 21:00 bis 22:00 - UID: 3383392149989
+[ 2023-08-22 20:55:19,318 - INFO ] [TechnoBase.FM] Die Show Feel The Rhythm von Hatchel auf TechnoBase.FM startet um 22.08.2023 um 21:00 bis 22:00 - UID: 3385465749989
+[ 2023-08-30 15:00:58,332 - INFO ] https://api.weareone.fm/v1/showplan/5/1
+[ 2023-08-30 15:00:58,334 - INFO ] https://api.weareone.fm/v1/showplan/6/1
+[ 2023-08-30 15:00:58,334 - INFO ] https://api.weareone.fm/v1/showplan/7/1
+[ 2023-08-30 15:00:58,334 - INFO ] https://api.weareone.fm/v1/showplan/8/1
+[ 2023-08-30 15:00:58,334 - INFO ] https://api.weareone.fm/v1/showplan/10/1
+[ 2023-08-30 15:00:58,334 - INFO ] https://api.weareone.fm/v1/showplan/11/1
+[ 2023-08-30 15:00:58,334 - INFO ] https://api.weareone.fm/v1/showplan/13/1
+[ 2023-08-30 15:00:58,334 - INFO ] https://api.weareone.fm/v1/showplan/14/1
+[ 2023-09-01 07:30:04,262 - INFO ] [TechnoBase.FM] Die Show Feel The Rhythm von Hatchel auf TechnoBase.FM startet um 01.09.2023 um 08:00 bis 08:30 - UID: 3387098349989
+[ 2023-09-01 08:30:23,966 - INFO ] [TechnoBase.FM] Die Show Feel The Rhythm von Hatchel auf TechnoBase.FM startet um 01.09.2023 um 09:00 bis 09:30 - UID: 3387105549989
+[ 2023-09-01 09:30:43,544 - INFO ] [TechnoBase.FM] Die Show Feel The Rhythm von Hatchel auf TechnoBase.FM startet um 01.09.2023 um 10:00 bis 10:30 - UID: 3387112749989
+[ 2023-09-01 10:31:01,130 - INFO ] [TechnoBase.FM] Die Show Feel The Rhythm von Hatchel auf TechnoBase.FM startet um 01.09.2023 um 11:00 bis 11:30 - UID: 3387119949989
+[ 2023-09-01 11:30:20,484 - INFO ] [TechnoBase.FM] Die Show Feel The Rhythm von Hatchel auf TechnoBase.FM startet um 01.09.2023 um 12:00 bis 12:30 - UID: 3387127149989
+[ 2023-09-02 21:00:56,812 - INFO ] [Replay.FM] Die Show Replay Together 2.0 von Hatchel auf Replay.FM startet um 02.09.2023 um 21:30 bis 23:00 - UID: 3387371949989
+[ 2023-09-05 21:38:17,927 - INFO ] https://api.weareone.fm/v1/showplan/5/1
+[ 2023-09-05 21:38:17,928 - INFO ] https://api.weareone.fm/v1/showplan/6/1
+[ 2023-09-05 21:38:17,928 - INFO ] https://api.weareone.fm/v1/showplan/7/1
+[ 2023-09-05 21:38:17,928 - INFO ] https://api.weareone.fm/v1/showplan/8/1
+[ 2023-09-05 21:38:17,928 - INFO ] https://api.weareone.fm/v1/showplan/10/1
+[ 2023-09-05 21:38:17,928 - INFO ] https://api.weareone.fm/v1/showplan/11/1
+[ 2023-09-05 21:38:17,928 - INFO ] https://api.weareone.fm/v1/showplan/13/1
+[ 2023-09-05 21:38:17,928 - INFO ] https://api.weareone.fm/v1/showplan/14/1
+[ 2023-09-05 22:20:27,615 - INFO ] https://api.weareone.fm/v1/showplan/5/1
+[ 2023-09-05 22:20:27,618 - INFO ] https://api.weareone.fm/v1/showplan/6/1
+[ 2023-09-05 22:20:27,618 - INFO ] https://api.weareone.fm/v1/showplan/7/1
+[ 2023-09-05 22:20:27,618 - INFO ] https://api.weareone.fm/v1/showplan/8/1
+[ 2023-09-05 22:20:27,618 - INFO ] https://api.weareone.fm/v1/showplan/10/1
+[ 2023-09-05 22:20:27,618 - INFO ] https://api.weareone.fm/v1/showplan/11/1
+[ 2023-09-05 22:20:27,618 - INFO ] https://api.weareone.fm/v1/showplan/13/1
+[ 2023-09-05 22:20:27,618 - INFO ] https://api.weareone.fm/v1/showplan/14/1
+[ 2023-09-07 08:39:45,507 - INFO ] https://api.weareone.fm/v1/showplan/5/1
+[ 2023-09-07 08:39:45,507 - INFO ] https://api.weareone.fm/v1/showplan/6/1
+[ 2023-09-07 08:39:45,508 - INFO ] https://api.weareone.fm/v1/showplan/7/1
+[ 2023-09-07 08:39:45,508 - INFO ] https://api.weareone.fm/v1/showplan/8/1
+[ 2023-09-07 08:39:45,508 - INFO ] https://api.weareone.fm/v1/showplan/10/1
+[ 2023-09-07 08:39:45,508 - INFO ] https://api.weareone.fm/v1/showplan/11/1
+[ 2023-09-07 08:39:45,508 - INFO ] https://api.weareone.fm/v1/showplan/13/1
+[ 2023-09-07 08:39:45,508 - INFO ] https://api.weareone.fm/v1/showplan/14/1
+[ 2023-09-08 20:30:16,486 - INFO ] [HouseTime.FM] Die Show Feel The Rhythm (House Edition) von Hatchel auf HouseTime.FM startet um 08.09.2023 um 21:00 bis 22:00 - UID: 3388403349989
+[ 2023-09-19 21:05:32,512 - INFO ] https://api.weareone.fm/v1/showplan/5/1
+[ 2023-09-19 21:05:32,512 - INFO ] https://api.weareone.fm/v1/showplan/6/1
+[ 2023-09-19 21:05:32,512 - INFO ] https://api.weareone.fm/v1/showplan/7/1
+[ 2023-09-19 21:05:32,512 - INFO ] https://api.weareone.fm/v1/showplan/8/1
+[ 2023-09-19 21:05:32,512 - INFO ] https://api.weareone.fm/v1/showplan/10/1
+[ 2023-09-19 21:05:32,512 - INFO ] https://api.weareone.fm/v1/showplan/11/1
+[ 2023-09-19 21:05:32,512 - INFO ] https://api.weareone.fm/v1/showplan/13/1
+[ 2023-09-19 21:05:32,512 - INFO ] https://api.weareone.fm/v1/showplan/14/1
+[ 2023-09-21 20:15:41,788 - INFO ] [TeaTime.FM] Die Show Feel The Rhythm (Happy Edition) von Hatchel auf TeaTime.FM startet um 21.09.2023 um 20:30 bis 21:00 - UID: 3390644349989
+[ 2023-09-21 21:09:04,747 - INFO ] [TeaTime.FM] Die Show Feel The Rhythm (Happy Edition) von Hatchel auf TeaTime.FM startet um 21.09.2023 um 21:30 bis 22:00 - UID: 3390651549989
+[ 2023-09-21 22:14:59,941 - INFO ] [TeaTime.FM] Die Show Feel The Rhythm (Happy Edition) von Hatchel auf TeaTime.FM startet um 21.09.2023 um 22:30 bis 23:00 - UID: 3390658749989
+[ 2023-09-26 12:00:51,240 - INFO ] https://api.weareone.fm/v1/showplan/5/1
+[ 2023-09-26 12:00:51,240 - INFO ] https://api.weareone.fm/v1/showplan/6/1
+[ 2023-09-26 12:00:51,240 - INFO ] https://api.weareone.fm/v1/showplan/7/1
+[ 2023-09-26 12:00:51,240 - INFO ] https://api.weareone.fm/v1/showplan/8/1
+[ 2023-09-26 12:00:51,240 - INFO ] https://api.weareone.fm/v1/showplan/10/1
+[ 2023-09-26 12:00:51,240 - INFO ] https://api.weareone.fm/v1/showplan/11/1
+[ 2023-09-26 12:00:51,240 - INFO ] https://api.weareone.fm/v1/showplan/13/1
+[ 2023-09-26 12:00:51,241 - INFO ] https://api.weareone.fm/v1/showplan/14/1
+[ 2023-10-16 20:08:24,013 - INFO ] https://api.weareone.fm/v1/showplan/5/1
+[ 2023-10-16 20:08:24,014 - INFO ] https://api.weareone.fm/v1/showplan/6/1
+[ 2023-10-16 20:08:24,014 - INFO ] https://api.weareone.fm/v1/showplan/7/1
+[ 2023-10-16 20:08:24,014 - INFO ] https://api.weareone.fm/v1/showplan/8/1
+[ 2023-10-16 20:08:24,014 - INFO ] https://api.weareone.fm/v1/showplan/10/1
+[ 2023-10-16 20:08:24,015 - INFO ] https://api.weareone.fm/v1/showplan/11/1
+[ 2023-10-16 20:08:24,015 - INFO ] https://api.weareone.fm/v1/showplan/13/1
+[ 2023-10-16 20:08:24,015 - INFO ] https://api.weareone.fm/v1/showplan/14/1
+[ 2023-10-16 20:08:24,218 - INFO ] [TechnoBase.FM] Die Show Feel The Rhythm von Hatchel auf TechnoBase.FM startet um 16.10.2023 um 20:30 bis 22:00 - UID: 3394967949989
+[ 2023-10-22 00:08:21,632 - INFO ] https://api.weareone.fm/v1/showplan/5/1
+[ 2023-10-22 00:08:21,648 - INFO ] https://api.weareone.fm/v1/showplan/6/1
+[ 2023-10-22 00:08:21,649 - INFO ] https://api.weareone.fm/v1/showplan/7/1
+[ 2023-10-22 00:08:21,649 - INFO ] https://api.weareone.fm/v1/showplan/8/1
+[ 2023-10-22 00:08:21,649 - INFO ] https://api.weareone.fm/v1/showplan/10/1
+[ 2023-10-22 00:08:21,649 - INFO ] https://api.weareone.fm/v1/showplan/11/1
+[ 2023-10-22 00:08:21,649 - INFO ] https://api.weareone.fm/v1/showplan/13/1
+[ 2023-10-22 00:08:21,649 - INFO ] https://api.weareone.fm/v1/showplan/14/1
+[ 2023-10-31 22:30:16,658 - INFO ] [HardBase.FM] Die Show Feel The Rhythm (Halloween Special) von Hatchel auf HardBase.FM startet um 31.10.2023 um 23:00 bis 01:00 - UID: 3397586949989
+[ 2023-11-06 19:00:25,721 - INFO ] https://api.weareone.fm/v1/showplan/5/1
+[ 2023-11-06 19:00:25,721 - INFO ] https://api.weareone.fm/v1/showplan/6/1
+[ 2023-11-06 19:00:25,721 - INFO ] https://api.weareone.fm/v1/showplan/7/1
+[ 2023-11-06 19:00:25,721 - INFO ] https://api.weareone.fm/v1/showplan/8/1
+[ 2023-11-06 19:00:25,721 - INFO ] https://api.weareone.fm/v1/showplan/10/1
+[ 2023-11-06 19:00:25,721 - INFO ] https://api.weareone.fm/v1/showplan/11/1
+[ 2023-11-06 19:00:25,721 - INFO ] https://api.weareone.fm/v1/showplan/13/1
+[ 2023-11-06 19:00:25,721 - INFO ] https://api.weareone.fm/v1/showplan/14/1
+[ 2023-11-10 15:37:11,983 - INFO ] https://api.weareone.fm/v1/showplan/5/1
+[ 2023-11-10 15:37:11,985 - INFO ] https://api.weareone.fm/v1/showplan/6/1
+[ 2023-11-10 15:37:11,985 - INFO ] https://api.weareone.fm/v1/showplan/7/1
+[ 2023-11-10 15:37:11,985 - INFO ] https://api.weareone.fm/v1/showplan/8/1
+[ 2023-11-10 15:37:11,986 - INFO ] https://api.weareone.fm/v1/showplan/10/1
+[ 2023-11-10 15:37:11,986 - INFO ] https://api.weareone.fm/v1/showplan/11/1
+[ 2023-11-10 15:37:11,986 - INFO ] https://api.weareone.fm/v1/showplan/13/1
+[ 2023-11-10 15:37:11,986 - INFO ] https://api.weareone.fm/v1/showplan/14/1
+[ 2023-11-11 12:31:03,309 - INFO ] https://api.weareone.fm/v1/showplan/5/1
+[ 2023-11-11 12:31:03,311 - INFO ] https://api.weareone.fm/v1/showplan/6/1
+[ 2023-11-11 12:31:03,311 - INFO ] https://api.weareone.fm/v1/showplan/7/1
+[ 2023-11-11 12:31:03,311 - INFO ] https://api.weareone.fm/v1/showplan/8/1
+[ 2023-11-11 12:31:03,312 - INFO ] https://api.weareone.fm/v1/showplan/10/1
+[ 2023-11-11 12:31:03,312 - INFO ] https://api.weareone.fm/v1/showplan/11/1
+[ 2023-11-11 12:31:03,313 - INFO ] https://api.weareone.fm/v1/showplan/13/1
+[ 2023-11-11 12:31:03,313 - INFO ] https://api.weareone.fm/v1/showplan/14/1
+[ 2023-11-14 20:30:31,921 - INFO ] [TechnoBase.FM] Die Show Feel The Rhythm von Hatchel auf TechnoBase.FM startet um 14.11.2023 um 21:00 bis 22:00 - UID: 3399988149989
+[ 2023-11-16 22:19:02,346 - INFO ] https://api.weareone.fm/v1/showplan/5/1
+[ 2023-11-16 22:19:02,347 - INFO ] https://api.weareone.fm/v1/showplan/6/1
+[ 2023-11-16 22:19:02,347 - INFO ] https://api.weareone.fm/v1/showplan/7/1
+[ 2023-11-16 22:19:02,347 - INFO ] https://api.weareone.fm/v1/showplan/8/1
+[ 2023-11-16 22:19:02,347 - INFO ] https://api.weareone.fm/v1/showplan/10/1
+[ 2023-11-16 22:19:02,347 - INFO ] https://api.weareone.fm/v1/showplan/11/1
+[ 2023-11-16 22:19:02,347 - INFO ] https://api.weareone.fm/v1/showplan/13/1
+[ 2023-11-16 22:19:02,347 - INFO ] https://api.weareone.fm/v1/showplan/14/1
+[ 2023-11-21 18:45:30,161 - INFO ] https://api.weareone.fm/v1/showplan/5/1
+[ 2023-11-21 18:45:30,166 - INFO ] https://api.weareone.fm/v1/showplan/6/1
+[ 2023-11-21 18:45:30,166 - INFO ] https://api.weareone.fm/v1/showplan/7/1
+[ 2023-11-21 18:45:30,166 - INFO ] https://api.weareone.fm/v1/showplan/8/1
+[ 2023-11-21 18:45:30,166 - INFO ] https://api.weareone.fm/v1/showplan/10/1
+[ 2023-11-21 18:45:30,166 - INFO ] https://api.weareone.fm/v1/showplan/11/1
+[ 2023-11-21 18:45:30,166 - INFO ] https://api.weareone.fm/v1/showplan/13/1
+[ 2023-11-21 18:45:30,166 - INFO ] https://api.weareone.fm/v1/showplan/14/1
+[ 2023-11-30 14:04:42,877 - INFO ] https://api.weareone.fm/v1/showplan/5/1
+[ 2023-11-30 14:04:42,881 - INFO ] https://api.weareone.fm/v1/showplan/6/1
+[ 2023-11-30 14:04:42,881 - INFO ] https://api.weareone.fm/v1/showplan/7/1
+[ 2023-11-30 14:04:42,881 - INFO ] https://api.weareone.fm/v1/showplan/8/1
+[ 2023-11-30 14:04:42,882 - INFO ] https://api.weareone.fm/v1/showplan/10/1
+[ 2023-11-30 14:04:42,882 - INFO ] https://api.weareone.fm/v1/showplan/11/1
+[ 2023-11-30 14:04:42,882 - INFO ] https://api.weareone.fm/v1/showplan/13/1
+[ 2023-11-30 14:04:42,882 - INFO ] https://api.weareone.fm/v1/showplan/14/1
+[ 2023-12-01 00:02:34,585 - INFO ] https://api.weareone.fm/v1/showplan/5/1
+[ 2023-12-01 00:02:34,587 - INFO ] https://api.weareone.fm/v1/showplan/6/1
+[ 2023-12-01 00:02:34,587 - INFO ] https://api.weareone.fm/v1/showplan/7/1
+[ 2023-12-01 00:02:34,587 - INFO ] https://api.weareone.fm/v1/showplan/8/1
+[ 2023-12-01 00:02:34,587 - INFO ] https://api.weareone.fm/v1/showplan/10/1
+[ 2023-12-01 00:02:34,587 - INFO ] https://api.weareone.fm/v1/showplan/11/1
+[ 2023-12-01 00:02:34,588 - INFO ] https://api.weareone.fm/v1/showplan/13/1
+[ 2023-12-01 00:02:34,588 - INFO ] https://api.weareone.fm/v1/showplan/14/1
+[ 2023-12-01 00:13:27,703 - INFO ] https://api.weareone.fm/v1/showplan/5/1
+[ 2023-12-01 00:13:27,709 - INFO ] https://api.weareone.fm/v1/showplan/6/1
+[ 2023-12-01 00:13:27,710 - INFO ] https://api.weareone.fm/v1/showplan/7/1
+[ 2023-12-01 00:13:27,710 - INFO ] https://api.weareone.fm/v1/showplan/8/1
+[ 2023-12-01 00:13:27,710 - INFO ] https://api.weareone.fm/v1/showplan/10/1
+[ 2023-12-01 00:13:27,710 - INFO ] https://api.weareone.fm/v1/showplan/11/1
+[ 2023-12-01 00:13:27,710 - INFO ] https://api.weareone.fm/v1/showplan/13/1
+[ 2023-12-01 00:13:27,710 - INFO ] https://api.weareone.fm/v1/showplan/14/1
+[ 2023-12-01 12:30:53,933 - INFO ] [HouseTime.FM] Die Show Feel The Rhythm (House Edition) von Hatchel auf HouseTime.FM startet um 01.12.2023 um 13:00 bis 15:00 - UID: 3402871749989
+[ 2023-12-01 20:30:59,495 - INFO ] [Replay.FM] Die Show Feel The Rhythm (Retro Edition) von Hatchel auf Replay.FM startet um 01.12.2023 um 21:00 bis 23:00 - UID: 3402929349989
+[ 2023-12-07 20:30:16,089 - INFO ] [TechnoBase.FM] Die Show Feel The Rhythm von Hatchel auf TechnoBase.FM startet um 07.12.2023 um 21:00 bis 22:00 - UID: 3403962549989
+[ 2023-12-08 20:30:37,443 - INFO ] [Replay.FM] Die Show Feel The Rhythm (Retro Edition) von Hatchel auf Replay.FM startet um 08.12.2023 um 21:00 bis 23:00 - UID: 3404138949989
+[ 2023-12-08 22:30:47,034 - INFO ] [CoreTime.FM] Die Show Feel The Rhythm (CT Edition) von Hatchel auf CoreTime.FM startet um 08.12.2023 um 23:00 bis 23:45 - UID: 3404148849989
+[ 2023-12-10 16:03:39,732 - INFO ] https://api.weareone.fm/v1/showplan/5/1
+[ 2023-12-10 16:03:39,735 - INFO ] https://api.weareone.fm/v1/showplan/6/1
+[ 2023-12-10 16:03:39,735 - INFO ] https://api.weareone.fm/v1/showplan/7/1
+[ 2023-12-10 16:03:39,735 - INFO ] https://api.weareone.fm/v1/showplan/8/1
+[ 2023-12-10 16:03:39,735 - INFO ] https://api.weareone.fm/v1/showplan/10/1
+[ 2023-12-10 16:03:39,735 - INFO ] https://api.weareone.fm/v1/showplan/11/1
+[ 2023-12-10 16:03:39,736 - INFO ] https://api.weareone.fm/v1/showplan/13/1
+[ 2023-12-10 16:03:39,736 - INFO ] https://api.weareone.fm/v1/showplan/14/1
+[ 2023-12-11 12:53:27,355 - INFO ] https://api.weareone.fm/v1/showplan/5/1
+[ 2023-12-11 12:53:27,356 - INFO ] https://api.weareone.fm/v1/showplan/6/1
+[ 2023-12-11 12:53:27,356 - INFO ] https://api.weareone.fm/v1/showplan/7/1
+[ 2023-12-11 12:53:27,356 - INFO ] https://api.weareone.fm/v1/showplan/8/1
+[ 2023-12-11 12:53:27,356 - INFO ] https://api.weareone.fm/v1/showplan/10/1
+[ 2023-12-11 12:53:27,356 - INFO ] https://api.weareone.fm/v1/showplan/11/1
+[ 2023-12-11 12:53:27,356 - INFO ] https://api.weareone.fm/v1/showplan/13/1
+[ 2023-12-11 12:53:27,356 - INFO ] https://api.weareone.fm/v1/showplan/14/1
+[ 2023-12-12 20:30:47,308 - INFO ] [TeaTime.FM] Die Show Feel The Rhythm (Happy Edition) von Hatchel auf TeaTime.FM startet um 12.12.2023 um 21:00 bis 22:00 - UID: 3404826549989
+[ 2023-12-19 19:30:27,892 - INFO ] [HardBase.FM] Die Show Feel The Rhythm (Hard Edition) von Hatchel auf HardBase.FM startet um 19.12.2023 um 20:00 bis 21:00 - UID: 3406028949989
+[ 2024-01-04 16:46:20,191 - INFO ] https://api.weareone.fm/v1/showplan/5/1
+[ 2024-01-04 16:46:20,192 - INFO ] https://api.weareone.fm/v1/showplan/6/1
+[ 2024-01-04 16:46:20,192 - INFO ] https://api.weareone.fm/v1/showplan/7/1
+[ 2024-01-04 16:46:20,192 - INFO ] https://api.weareone.fm/v1/showplan/8/1
+[ 2024-01-04 16:46:20,192 - INFO ] https://api.weareone.fm/v1/showplan/10/1
+[ 2024-01-04 16:46:20,192 - INFO ] https://api.weareone.fm/v1/showplan/11/1
+[ 2024-01-04 16:46:20,192 - INFO ] https://api.weareone.fm/v1/showplan/13/1
+[ 2024-01-04 16:46:20,192 - INFO ] https://api.weareone.fm/v1/showplan/14/1
+[ 2024-01-04 17:00:24,758 - INFO ] https://api.weareone.fm/v1/showplan/5/1
+[ 2024-01-04 17:00:24,761 - INFO ] https://api.weareone.fm/v1/showplan/6/1
+[ 2024-01-04 17:00:24,761 - INFO ] https://api.weareone.fm/v1/showplan/7/1
+[ 2024-01-04 17:00:24,761 - INFO ] https://api.weareone.fm/v1/showplan/8/1
+[ 2024-01-04 17:00:24,761 - INFO ] https://api.weareone.fm/v1/showplan/10/1
+[ 2024-01-04 17:00:24,761 - INFO ] https://api.weareone.fm/v1/showplan/11/1
+[ 2024-01-04 17:00:24,761 - INFO ] https://api.weareone.fm/v1/showplan/13/1
+[ 2024-01-04 17:00:24,761 - INFO ] https://api.weareone.fm/v1/showplan/14/1
+[ 2024-01-12 08:20:16,622 - INFO ] https://api.weareone.fm/v1/showplan/5/1
+[ 2024-01-12 08:20:16,622 - INFO ] https://api.weareone.fm/v1/showplan/6/1
+[ 2024-01-12 08:20:16,623 - INFO ] https://api.weareone.fm/v1/showplan/7/1
+[ 2024-01-12 08:20:16,623 - INFO ] https://api.weareone.fm/v1/showplan/8/1
+[ 2024-01-12 08:20:16,623 - INFO ] https://api.weareone.fm/v1/showplan/10/1
+[ 2024-01-12 08:20:16,623 - INFO ] https://api.weareone.fm/v1/showplan/11/1
+[ 2024-01-12 08:20:16,623 - INFO ] https://api.weareone.fm/v1/showplan/13/1
+[ 2024-01-12 08:20:16,623 - INFO ] https://api.weareone.fm/v1/showplan/14/1
+[ 2024-01-12 11:55:53,359 - INFO ] https://api.weareone.fm/v1/showplan/5/1
+[ 2024-01-12 11:55:53,361 - INFO ] https://api.weareone.fm/v1/showplan/6/1
+[ 2024-01-12 11:55:53,361 - INFO ] https://api.weareone.fm/v1/showplan/7/1
+[ 2024-01-12 11:55:53,361 - INFO ] https://api.weareone.fm/v1/showplan/8/1
+[ 2024-01-12 11:55:53,361 - INFO ] https://api.weareone.fm/v1/showplan/10/1
+[ 2024-01-12 11:55:53,361 - INFO ] https://api.weareone.fm/v1/showplan/11/1
+[ 2024-01-12 11:55:53,361 - INFO ] https://api.weareone.fm/v1/showplan/13/1
+[ 2024-01-12 11:55:53,361 - INFO ] https://api.weareone.fm/v1/showplan/14/1
+[ 2024-01-16 08:17:49,981 - INFO ] https://api.weareone.fm/v1/showplan/5/1
+[ 2024-01-16 08:17:49,982 - INFO ] https://api.weareone.fm/v1/showplan/6/1
+[ 2024-01-16 08:17:49,982 - INFO ] https://api.weareone.fm/v1/showplan/7/1
+[ 2024-01-16 08:17:49,982 - INFO ] https://api.weareone.fm/v1/showplan/8/1
+[ 2024-01-16 08:17:49,982 - INFO ] https://api.weareone.fm/v1/showplan/10/1
+[ 2024-01-16 08:17:49,982 - INFO ] https://api.weareone.fm/v1/showplan/11/1
+[ 2024-01-16 08:17:49,982 - INFO ] https://api.weareone.fm/v1/showplan/13/1
+[ 2024-01-16 08:17:49,982 - INFO ] https://api.weareone.fm/v1/showplan/14/1
+[ 2024-01-18 18:53:28,311 - INFO ] https://api.weareone.fm/v1/showplan/5/1
+[ 2024-01-18 18:53:28,311 - INFO ] https://api.weareone.fm/v1/showplan/6/1
+[ 2024-01-18 18:53:28,312 - INFO ] https://api.weareone.fm/v1/showplan/7/1
+[ 2024-01-18 18:53:28,312 - INFO ] https://api.weareone.fm/v1/showplan/8/1
+[ 2024-01-18 18:53:28,312 - INFO ] https://api.weareone.fm/v1/showplan/10/1
+[ 2024-01-18 18:53:28,312 - INFO ] https://api.weareone.fm/v1/showplan/11/1
+[ 2024-01-18 18:53:28,312 - INFO ] https://api.weareone.fm/v1/showplan/13/1
+[ 2024-01-18 18:53:28,312 - INFO ] https://api.weareone.fm/v1/showplan/14/1
+[ 2024-01-18 20:00:20,121 - INFO ] https://api.weareone.fm/v1/showplan/5/1
+[ 2024-01-18 20:00:20,122 - INFO ] https://api.weareone.fm/v1/showplan/6/1
+[ 2024-01-18 20:00:20,122 - INFO ] https://api.weareone.fm/v1/showplan/7/1
+[ 2024-01-18 20:00:20,122 - INFO ] https://api.weareone.fm/v1/showplan/8/1
+[ 2024-01-18 20:00:20,122 - INFO ] https://api.weareone.fm/v1/showplan/10/1
+[ 2024-01-18 20:00:20,122 - INFO ] https://api.weareone.fm/v1/showplan/11/1
+[ 2024-01-18 20:00:20,122 - INFO ] https://api.weareone.fm/v1/showplan/13/1
+[ 2024-01-18 20:00:20,122 - INFO ] https://api.weareone.fm/v1/showplan/14/1
+[ 2024-01-19 12:26:33,633 - INFO ] https://api.weareone.fm/v1/showplan/5/1
+[ 2024-01-19 12:26:33,635 - INFO ] https://api.weareone.fm/v1/showplan/6/1
+[ 2024-01-19 12:26:33,635 - INFO ] https://api.weareone.fm/v1/showplan/7/1
+[ 2024-01-19 12:26:33,636 - INFO ] https://api.weareone.fm/v1/showplan/8/1
+[ 2024-01-19 12:26:33,636 - INFO ] https://api.weareone.fm/v1/showplan/10/1
+[ 2024-01-19 12:26:33,636 - INFO ] https://api.weareone.fm/v1/showplan/11/1
+[ 2024-01-19 12:26:33,636 - INFO ] https://api.weareone.fm/v1/showplan/13/1
+[ 2024-01-19 12:26:33,636 - INFO ] https://api.weareone.fm/v1/showplan/14/1
+[ 2024-01-19 12:40:40,573 - INFO ] https://api.weareone.fm/v1/showplan/5/1
+[ 2024-01-19 12:40:40,573 - INFO ] https://api.weareone.fm/v1/showplan/6/1
+[ 2024-01-19 12:40:40,574 - INFO ] https://api.weareone.fm/v1/showplan/7/1
+[ 2024-01-19 12:40:40,574 - INFO ] https://api.weareone.fm/v1/showplan/8/1
+[ 2024-01-19 12:40:40,574 - INFO ] https://api.weareone.fm/v1/showplan/10/1
+[ 2024-01-19 12:40:40,574 - INFO ] https://api.weareone.fm/v1/showplan/11/1
+[ 2024-01-19 12:40:40,574 - INFO ] https://api.weareone.fm/v1/showplan/13/1
+[ 2024-01-19 12:40:40,574 - INFO ] https://api.weareone.fm/v1/showplan/14/1
+[ 2024-01-19 14:07:39,846 - INFO ] https://api.weareone.fm/v1/showplan/5/1
+[ 2024-01-19 14:07:39,852 - INFO ] https://api.weareone.fm/v1/showplan/6/1
+[ 2024-01-19 14:07:39,852 - INFO ] https://api.weareone.fm/v1/showplan/7/1
+[ 2024-01-19 14:07:39,852 - INFO ] https://api.weareone.fm/v1/showplan/8/1
+[ 2024-01-19 14:07:39,852 - INFO ] https://api.weareone.fm/v1/showplan/10/1
+[ 2024-01-19 14:07:39,852 - INFO ] https://api.weareone.fm/v1/showplan/11/1
+[ 2024-01-19 14:07:39,852 - INFO ] https://api.weareone.fm/v1/showplan/13/1
+[ 2024-01-19 14:07:39,852 - INFO ] https://api.weareone.fm/v1/showplan/14/1
+[ 2024-01-19 19:58:27,105 - INFO ] [TechnoBase.FM] Die Show Feel The Rhythm von Hatchel auf TechnoBase.FM startet um 19.01.2024 um 20:00 bis 22:00 - UID: 3411389349989
+[ 2024-01-19 21:30:30,820 - INFO ] [Replay.FM] Die Show Feel The Rhythm (Retro Edition) von Hatchel auf Replay.FM startet um 19.01.2024 um 22:00 bis 00:00 - UID: 3411403749989
+[ 2024-01-25 21:05:51,464 - INFO ] https://api.weareone.fm/v1/showplan/5/1
+[ 2024-01-25 21:05:51,477 - INFO ] https://api.weareone.fm/v1/showplan/6/1
+[ 2024-01-25 21:05:51,477 - INFO ] https://api.weareone.fm/v1/showplan/7/1
+[ 2024-01-25 21:05:51,477 - INFO ] https://api.weareone.fm/v1/showplan/8/1
+[ 2024-01-25 21:05:51,477 - INFO ] https://api.weareone.fm/v1/showplan/10/1
+[ 2024-01-25 21:05:51,477 - INFO ] https://api.weareone.fm/v1/showplan/11/1
+[ 2024-01-25 21:05:51,477 - INFO ] https://api.weareone.fm/v1/showplan/13/1
+[ 2024-01-25 21:05:51,477 - INFO ] https://api.weareone.fm/v1/showplan/14/1
+[ 2024-01-26 21:30:28,290 - INFO ] [Replay.FM] Die Show Feel The Rhythm (Retro Edition) von Hatchel auf Replay.FM startet um 26.01.2024 um 22:00 bis 00:00 - UID: 3412613349989
+[ 2024-01-30 13:32:18,336 - INFO ] https://api.weareone.fm/v1/showplan/5/1
+[ 2024-01-30 13:32:18,337 - INFO ] https://api.weareone.fm/v1/showplan/6/1
+[ 2024-01-30 13:32:18,337 - INFO ] https://api.weareone.fm/v1/showplan/7/1
+[ 2024-01-30 13:32:18,337 - INFO ] https://api.weareone.fm/v1/showplan/8/1
+[ 2024-01-30 13:32:18,338 - INFO ] https://api.weareone.fm/v1/showplan/10/1
+[ 2024-01-30 13:32:18,338 - INFO ] https://api.weareone.fm/v1/showplan/11/1
+[ 2024-01-30 13:32:18,338 - INFO ] https://api.weareone.fm/v1/showplan/13/1
+[ 2024-01-30 13:32:18,338 - INFO ] https://api.weareone.fm/v1/showplan/14/1
+[ 2024-01-30 19:30:08,009 - INFO ] [HardBase.FM] Die Show Feel The Rhythm (Hard Edition) von Hatchel auf HardBase.FM startet um 30.01.2024 um 20:00 bis 21:00 - UID: 3413286549989
+[ 2024-02-02 20:30:36,941 - INFO ] [Replay.FM] Die Show Feel The Rhythm (Retro Edition) von Hatchel auf Replay.FM startet um 02.02.2024 um 21:00 bis 23:00 - UID: 3413815749989
+[ 2024-02-05 20:30:34,682 - INFO ] [TechnoBase.FM] Die Show Feel The Rhythm von Hatchel auf TechnoBase.FM startet um 05.02.2024 um 21:00 bis 22:00 - UID: 3414330549989
+[ 2024-02-06 11:31:27,419 - ERROR ] [ClubTime.FM] FEHLER 500 von https://api.weareone.fm/v1/showplan/11/1
+[ 2024-02-06 11:41:43,332 - INFO ] https://api.weareone.fm/v1/showplan/5/1
+[ 2024-02-06 11:41:43,332 - INFO ] https://api.weareone.fm/v1/showplan/6/1
+[ 2024-02-06 11:41:43,332 - INFO ] https://api.weareone.fm/v1/showplan/7/1
+[ 2024-02-06 11:41:43,332 - INFO ] https://api.weareone.fm/v1/showplan/8/1
+[ 2024-02-06 11:41:43,332 - INFO ] https://api.weareone.fm/v1/showplan/10/1
+[ 2024-02-06 11:41:43,332 - INFO ] https://api.weareone.fm/v1/showplan/11/1
+[ 2024-02-06 11:41:43,332 - INFO ] https://api.weareone.fm/v1/showplan/13/1
+[ 2024-02-06 11:41:43,332 - INFO ] https://api.weareone.fm/v1/showplan/14/1
+[ 2024-02-09 11:54:32,495 - INFO ] https://api.weareone.fm/v1/showplan/5/1
+[ 2024-02-09 11:54:32,508 - INFO ] https://api.weareone.fm/v1/showplan/6/1
+[ 2024-02-09 11:54:32,508 - INFO ] https://api.weareone.fm/v1/showplan/7/1
+[ 2024-02-09 11:54:32,508 - INFO ] https://api.weareone.fm/v1/showplan/8/1
+[ 2024-02-09 11:54:32,508 - INFO ] https://api.weareone.fm/v1/showplan/10/1
+[ 2024-02-09 11:54:32,508 - INFO ] https://api.weareone.fm/v1/showplan/11/1
+[ 2024-02-09 11:54:32,508 - INFO ] https://api.weareone.fm/v1/showplan/13/1
+[ 2024-02-09 11:54:32,508 - INFO ] https://api.weareone.fm/v1/showplan/14/1
+[ 2024-02-09 11:58:14,162 - INFO ] https://api.weareone.fm/v1/showplan/5/1
+[ 2024-02-09 11:58:14,167 - INFO ] https://api.weareone.fm/v1/showplan/6/1
+[ 2024-02-09 11:58:14,167 - INFO ] https://api.weareone.fm/v1/showplan/7/1
+[ 2024-02-09 11:58:14,168 - INFO ] https://api.weareone.fm/v1/showplan/8/1
+[ 2024-02-09 11:58:14,168 - INFO ] https://api.weareone.fm/v1/showplan/10/1
+[ 2024-02-09 11:58:14,168 - INFO ] https://api.weareone.fm/v1/showplan/11/1
+[ 2024-02-09 11:58:14,168 - INFO ] https://api.weareone.fm/v1/showplan/13/1
+[ 2024-02-09 11:58:14,168 - INFO ] https://api.weareone.fm/v1/showplan/14/1
+[ 2024-02-09 12:02:18,962 - INFO ] https://api.weareone.fm/v1/showplan/5/1
+[ 2024-02-09 12:02:18,963 - INFO ] https://api.weareone.fm/v1/showplan/6/1
+[ 2024-02-09 12:02:18,963 - INFO ] https://api.weareone.fm/v1/showplan/7/1
+[ 2024-02-09 12:02:18,963 - INFO ] https://api.weareone.fm/v1/showplan/8/1
+[ 2024-02-09 12:02:18,963 - INFO ] https://api.weareone.fm/v1/showplan/10/1
+[ 2024-02-09 12:02:18,963 - INFO ] https://api.weareone.fm/v1/showplan/11/1
+[ 2024-02-09 12:02:18,963 - INFO ] https://api.weareone.fm/v1/showplan/13/1
+[ 2024-02-09 12:02:18,963 - INFO ] https://api.weareone.fm/v1/showplan/14/1
+[ 2024-02-09 12:35:59,117 - INFO ] https://api.weareone.fm/v1/showplan/5/1
+[ 2024-02-09 12:35:59,118 - INFO ] https://api.weareone.fm/v1/showplan/6/1
+[ 2024-02-09 12:35:59,119 - INFO ] https://api.weareone.fm/v1/showplan/7/1
+[ 2024-02-09 12:35:59,119 - INFO ] https://api.weareone.fm/v1/showplan/8/1
+[ 2024-02-09 12:35:59,119 - INFO ] https://api.weareone.fm/v1/showplan/10/1
+[ 2024-02-09 12:35:59,119 - INFO ] https://api.weareone.fm/v1/showplan/11/1
+[ 2024-02-09 12:35:59,119 - INFO ] https://api.weareone.fm/v1/showplan/13/1
+[ 2024-02-09 12:35:59,119 - INFO ] https://api.weareone.fm/v1/showplan/14/1
+[ 2024-02-15 21:25:31,377 - INFO ] https://api.weareone.fm/v1/showplan/5/1
+[ 2024-02-15 21:25:31,379 - INFO ] https://api.weareone.fm/v1/showplan/6/1
+[ 2024-02-15 21:25:31,379 - INFO ] https://api.weareone.fm/v1/showplan/7/1
+[ 2024-02-15 21:25:31,379 - INFO ] https://api.weareone.fm/v1/showplan/8/1
+[ 2024-02-15 21:25:31,379 - INFO ] https://api.weareone.fm/v1/showplan/10/1
+[ 2024-02-15 21:25:31,379 - INFO ] https://api.weareone.fm/v1/showplan/11/1
+[ 2024-02-15 21:25:31,379 - INFO ] https://api.weareone.fm/v1/showplan/13/1
+[ 2024-02-15 21:25:31,379 - INFO ] https://api.weareone.fm/v1/showplan/14/1
+[ 2024-02-16 10:57:17,637 - INFO ] https://api.weareone.fm/v1/showplan/5/1
+[ 2024-02-16 10:57:17,642 - INFO ] https://api.weareone.fm/v1/showplan/6/1
+[ 2024-02-16 10:57:17,642 - INFO ] https://api.weareone.fm/v1/showplan/7/1
+[ 2024-02-16 10:57:17,642 - INFO ] https://api.weareone.fm/v1/showplan/8/1
+[ 2024-02-16 10:57:17,642 - INFO ] https://api.weareone.fm/v1/showplan/10/1
+[ 2024-02-16 10:57:17,642 - INFO ] https://api.weareone.fm/v1/showplan/11/1
+[ 2024-02-16 10:57:17,642 - INFO ] https://api.weareone.fm/v1/showplan/13/1
+[ 2024-02-16 10:57:17,643 - INFO ] https://api.weareone.fm/v1/showplan/14/1
+[ 2024-02-16 20:30:21,226 - INFO ] [Replay.FM] Die Show Feel The Rhythm (Retro Edition) von Hatchel auf Replay.FM startet um 16.02.2024 um 21:00 bis 23:00 - UID: 3416234949989
+[ 2024-02-17 21:30:36,174 - INFO ] [TeaTime.FM] Die Show Feel The Rhythm (Happy Edition) von Hatchel auf TeaTime.FM startet um 17.02.2024 um 22:00 bis 23:00 - UID: 3416411349989
+[ 2024-02-20 10:03:22,180 - INFO ] https://api.weareone.fm/v1/showplan/5/1
+[ 2024-02-20 10:03:22,182 - INFO ] https://api.weareone.fm/v1/showplan/6/1
+[ 2024-02-20 10:03:22,182 - INFO ] https://api.weareone.fm/v1/showplan/7/1
+[ 2024-02-20 10:03:22,182 - INFO ] https://api.weareone.fm/v1/showplan/8/1
+[ 2024-02-20 10:03:22,182 - INFO ] https://api.weareone.fm/v1/showplan/10/1
+[ 2024-02-20 10:03:22,182 - INFO ] https://api.weareone.fm/v1/showplan/11/1
+[ 2024-02-20 10:03:22,182 - INFO ] https://api.weareone.fm/v1/showplan/13/1
+[ 2024-02-20 10:03:22,182 - INFO ] https://api.weareone.fm/v1/showplan/14/1
+[ 2024-02-20 10:03:23,520 - INFO ] [Replay.FM] Die Show Feel The Rhythm (Retro Edition) von Hatchel auf Replay.FM startet um 20.02.2024 um 10:15 bis 11:15 - UID: 3416845149989
+[ 2024-02-20 10:06:21,440 - INFO ] https://api.weareone.fm/v1/showplan/5/1
+[ 2024-02-20 10:06:21,440 - INFO ] https://api.weareone.fm/v1/showplan/6/1
+[ 2024-02-20 10:06:21,440 - INFO ] https://api.weareone.fm/v1/showplan/7/1
+[ 2024-02-20 10:06:21,440 - INFO ] https://api.weareone.fm/v1/showplan/8/1
+[ 2024-02-20 10:06:21,440 - INFO ] https://api.weareone.fm/v1/showplan/10/1
+[ 2024-02-20 10:06:21,440 - INFO ] https://api.weareone.fm/v1/showplan/11/1
+[ 2024-02-20 10:06:21,440 - INFO ] https://api.weareone.fm/v1/showplan/13/1
+[ 2024-02-20 10:06:21,440 - INFO ] https://api.weareone.fm/v1/showplan/14/1
+[ 2024-02-20 20:30:55,597 - INFO ] [TechnoBase.FM] Die Show Feel The Rhythm von Hatchel auf TechnoBase.FM startet um 20.02.2024 um 21:00 bis 22:00 - UID: 3416922549989
+[ 2024-02-23 20:31:01,337 - INFO ] [HouseTime.FM] Die Show Feel The Rhythm (House Edition) von Hatchel auf HouseTime.FM startet um 23.02.2024 um 21:00 bis 22:00 - UID: 3417440949989
+[ 2024-02-27 09:30:29,295 - INFO ] [Replay.FM] Die Show Feel The Rhythm (Retro Edition) von Hatchel auf Replay.FM startet um 27.02.2024 um 10:00 bis 11:00 - UID: 3418052949989
+[ 2024-03-01 20:30:21,060 - INFO ] [Replay.FM] Die Show Feel The Rhymthm (Retro Edition) von Hatchel auf Replay.FM startet um 01.03.2024 um 21:00 bis 23:00 - UID: 3418654149989
+[ 2024-03-04 11:36:39,016 - INFO ] https://api.weareone.fm/v1/showplan/5/1
+[ 2024-03-04 11:36:39,017 - INFO ] https://api.weareone.fm/v1/showplan/6/1
+[ 2024-03-04 11:36:39,017 - INFO ] https://api.weareone.fm/v1/showplan/7/1
+[ 2024-03-04 11:36:39,017 - INFO ] https://api.weareone.fm/v1/showplan/8/1
+[ 2024-03-04 11:36:39,018 - INFO ] https://api.weareone.fm/v1/showplan/10/1
+[ 2024-03-04 11:36:39,018 - INFO ] https://api.weareone.fm/v1/showplan/11/1
+[ 2024-03-04 11:36:39,018 - INFO ] https://api.weareone.fm/v1/showplan/13/1
+[ 2024-03-04 11:36:39,018 - INFO ] https://api.weareone.fm/v1/showplan/14/1
+[ 2024-03-04 11:37:36,593 - ERROR ] [CoreTime.FM] FEHLER 500 von https://api.weareone.fm/v1/showplan/10/1
+[ 2024-03-04 11:38:15,485 - ERROR ] [ClubTime.FM] FEHLER 500 von https://api.weareone.fm/v1/showplan/11/1
+[ 2024-03-04 11:38:48,282 - ERROR ] [TeaTime.FM] FEHLER 500 von https://api.weareone.fm/v1/showplan/13/1
+[ 2024-03-05 19:19:51,681 - INFO ] https://api.weareone.fm/v1/showplan/5/1
+[ 2024-03-05 19:19:51,681 - INFO ] https://api.weareone.fm/v1/showplan/6/1
+[ 2024-03-05 19:19:51,681 - INFO ] https://api.weareone.fm/v1/showplan/7/1
+[ 2024-03-05 19:19:51,681 - INFO ] https://api.weareone.fm/v1/showplan/8/1
+[ 2024-03-05 19:19:51,681 - INFO ] https://api.weareone.fm/v1/showplan/10/1
+[ 2024-03-05 19:19:51,681 - INFO ] https://api.weareone.fm/v1/showplan/11/1
+[ 2024-03-05 19:19:51,681 - INFO ] https://api.weareone.fm/v1/showplan/13/1
+[ 2024-03-05 19:19:51,681 - INFO ] https://api.weareone.fm/v1/showplan/14/1
+[ 2024-03-08 10:30:32,741 - INFO ] [HardBase.FM] Die Show Birthday Special von Hatchel auf HardBase.FM startet um 08.03.2024 um 11:00 bis 12:00 - UID: 3419788149989
+[ 2024-03-15 20:30:29,631 - INFO ] [Replay.FM] Die Show Feel The Rhythm (Retro Edition) von Hatchel auf Replay.FM startet um 15.03.2024 um 21:00 bis 23:00 - UID: 3421073349989
+[ 2024-03-19 20:30:52,566 - INFO ] [TechnoBase.FM] Die Show Feel The Rhythm (4 Years Edition) von Hatchel auf TechnoBase.FM startet um 19.03.2024 um 21:00 bis 23:00 - UID: 3421764549989
+[ 2024-03-27 19:38:24,009 - INFO ] https://api.weareone.fm/v1/showplan/5/1
+[ 2024-03-27 19:38:24,027 - INFO ] https://api.weareone.fm/v1/showplan/6/1
+[ 2024-03-27 19:38:24,027 - INFO ] https://api.weareone.fm/v1/showplan/7/1
+[ 2024-03-27 19:38:24,027 - INFO ] https://api.weareone.fm/v1/showplan/8/1
+[ 2024-03-27 19:38:24,027 - INFO ] https://api.weareone.fm/v1/showplan/10/1
+[ 2024-03-27 19:38:24,027 - INFO ] https://api.weareone.fm/v1/showplan/11/1
+[ 2024-03-27 19:38:24,027 - INFO ] https://api.weareone.fm/v1/showplan/13/1
+[ 2024-03-27 19:38:24,027 - INFO ] https://api.weareone.fm/v1/showplan/14/1
+[ 2024-03-31 21:30:35,117 - INFO ] [TechnoBase.FM] Die Show Feel The Rhythm von Hatchel auf TechnoBase.FM startet um 31.03.2024 um 22:00 bis 00:00 - UID: 3423838149989
+[ 2024-04-02 17:06:26,045 - INFO ] https://api.weareone.fm/v1/showplan/5/1
+[ 2024-04-02 17:06:26,045 - INFO ] https://api.weareone.fm/v1/showplan/6/1
+[ 2024-04-02 17:06:26,045 - INFO ] https://api.weareone.fm/v1/showplan/7/1
+[ 2024-04-02 17:06:26,045 - INFO ] https://api.weareone.fm/v1/showplan/8/1
+[ 2024-04-02 17:06:26,045 - INFO ] https://api.weareone.fm/v1/showplan/10/1
+[ 2024-04-02 17:06:26,045 - INFO ] https://api.weareone.fm/v1/showplan/11/1
+[ 2024-04-02 17:06:26,046 - INFO ] https://api.weareone.fm/v1/showplan/13/1
+[ 2024-04-02 17:06:26,046 - INFO ] https://api.weareone.fm/v1/showplan/14/1
+[ 2024-04-04 09:34:31,651 - INFO ] https://api.weareone.fm/v1/showplan/5/1
+[ 2024-04-04 09:34:31,652 - INFO ] https://api.weareone.fm/v1/showplan/6/1
+[ 2024-04-04 09:34:31,652 - INFO ] https://api.weareone.fm/v1/showplan/7/1
+[ 2024-04-04 09:34:31,652 - INFO ] https://api.weareone.fm/v1/showplan/8/1
+[ 2024-04-04 09:34:31,652 - INFO ] https://api.weareone.fm/v1/showplan/10/1
+[ 2024-04-04 09:34:31,652 - INFO ] https://api.weareone.fm/v1/showplan/11/1
+[ 2024-04-04 09:34:31,652 - INFO ] https://api.weareone.fm/v1/showplan/13/1
+[ 2024-04-04 09:34:31,652 - INFO ] https://api.weareone.fm/v1/showplan/14/1
+[ 2024-04-04 15:33:26,887 - INFO ] https://api.weareone.fm/v1/showplan/5/1
+[ 2024-04-04 15:33:26,888 - INFO ] https://api.weareone.fm/v1/showplan/6/1
+[ 2024-04-04 15:33:26,889 - INFO ] https://api.weareone.fm/v1/showplan/7/1
+[ 2024-04-04 15:33:26,889 - INFO ] https://api.weareone.fm/v1/showplan/8/1
+[ 2024-04-04 15:33:26,889 - INFO ] https://api.weareone.fm/v1/showplan/10/1
+[ 2024-04-04 15:33:26,889 - INFO ] https://api.weareone.fm/v1/showplan/11/1
+[ 2024-04-04 15:33:26,889 - INFO ] https://api.weareone.fm/v1/showplan/13/1
+[ 2024-04-04 15:33:26,889 - INFO ] https://api.weareone.fm/v1/showplan/14/1
+[ 2024-04-04 23:07:30,744 - INFO ] https://api.weareone.fm/v1/showplan/5/1
+[ 2024-04-04 23:07:30,747 - INFO ] https://api.weareone.fm/v1/showplan/6/1
+[ 2024-04-04 23:07:30,747 - INFO ] https://api.weareone.fm/v1/showplan/7/1
+[ 2024-04-04 23:07:30,747 - INFO ] https://api.weareone.fm/v1/showplan/8/1
+[ 2024-04-04 23:07:30,747 - INFO ] https://api.weareone.fm/v1/showplan/10/1
+[ 2024-04-04 23:07:30,747 - INFO ] https://api.weareone.fm/v1/showplan/11/1
+[ 2024-04-04 23:07:30,747 - INFO ] https://api.weareone.fm/v1/showplan/13/1
+[ 2024-04-04 23:07:30,747 - INFO ] https://api.weareone.fm/v1/showplan/14/1
+[ 2024-04-07 11:46:55,731 - INFO ] https://api.weareone.fm/v1/showplan/5/1
+[ 2024-04-07 11:46:55,733 - INFO ] https://api.weareone.fm/v1/showplan/6/1
+[ 2024-04-07 11:46:55,733 - INFO ] https://api.weareone.fm/v1/showplan/7/1
+[ 2024-04-07 11:46:55,733 - INFO ] https://api.weareone.fm/v1/showplan/8/1
+[ 2024-04-07 11:46:55,733 - INFO ] https://api.weareone.fm/v1/showplan/10/1
+[ 2024-04-07 11:46:55,733 - INFO ] https://api.weareone.fm/v1/showplan/11/1
+[ 2024-04-07 11:46:55,733 - INFO ] https://api.weareone.fm/v1/showplan/13/1
+[ 2024-04-07 11:46:55,733 - INFO ] https://api.weareone.fm/v1/showplan/14/1
+[ 2024-04-09 08:37:58,709 - INFO ] https://api.weareone.fm/v1/showplan/5/1
+[ 2024-04-09 08:37:58,710 - INFO ] https://api.weareone.fm/v1/showplan/6/1
+[ 2024-04-09 08:37:58,710 - INFO ] https://api.weareone.fm/v1/showplan/7/1
+[ 2024-04-09 08:37:58,710 - INFO ] https://api.weareone.fm/v1/showplan/8/1
+[ 2024-04-09 08:37:58,710 - INFO ] https://api.weareone.fm/v1/showplan/10/1
+[ 2024-04-09 08:37:58,710 - INFO ] https://api.weareone.fm/v1/showplan/11/1
+[ 2024-04-09 08:37:58,710 - INFO ] https://api.weareone.fm/v1/showplan/13/1
+[ 2024-04-09 08:37:58,710 - INFO ] https://api.weareone.fm/v1/showplan/14/1
+[ 2024-04-09 08:44:35,872 - INFO ] https://api.weareone.fm/v1/showplan/5/1
+[ 2024-04-09 08:44:35,872 - INFO ] https://api.weareone.fm/v1/showplan/6/1
+[ 2024-04-09 08:44:35,872 - INFO ] https://api.weareone.fm/v1/showplan/7/1
+[ 2024-04-09 08:44:35,873 - INFO ] https://api.weareone.fm/v1/showplan/8/1
+[ 2024-04-09 08:44:35,873 - INFO ] https://api.weareone.fm/v1/showplan/10/1
+[ 2024-04-09 08:44:35,873 - INFO ] https://api.weareone.fm/v1/showplan/11/1
+[ 2024-04-09 08:44:35,873 - INFO ] https://api.weareone.fm/v1/showplan/13/1
+[ 2024-04-09 08:44:35,873 - INFO ] https://api.weareone.fm/v1/showplan/14/1

@@ -117,7 +117,7 @@ def check():
                     startOffset = startUnix - now
                     #NUR FÜR DICH, AYBEE! <3
                     startmin = remaining_minutes(startUnix)
-                    if x["m"] in config["public_djs"]
+                    if x["m"] in config["public_djs"]:
                         logger.info(f"{show} by {dj} at {station} found from {startTime} to {endTime} - {startmin} Minutes remaining") 
                     if x["m"] in config["public_djs"] and startUnix > now:
                         uid = x["mi"] + x["s"] + x["e"]

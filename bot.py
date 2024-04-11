@@ -60,6 +60,11 @@ stationCount = 0
 for station, id in stations.items():
     stationCount = stationCount + 1
 
+#NUR FÜR DICH, AYBEE! <3
+def remaining_minutes(start_time):
+    current_time = datetime.datetime.now()
+    delta = start_time - current_time
+    return int(delta.total_seconds() / 60)
 
 def check():
     try:
@@ -110,14 +115,17 @@ def check():
                         "%H:%M"
                     )
                     startOffset = startUnix - now
-
+                    #NUR FÜR DICH, AYBEE! <3
+                    startmin = remaining_minutes(startUnix)
+                    if x["m"] in config["public_djs"]
+                        logger.info(f"{show} by {dj} at {station} found from {startTime} to {endTime} - {startmin} Minutes remaining") 
                     if x["m"] in config["public_djs"] and startUnix > now:
                         uid = x["mi"] + x["s"] + x["e"]
                         if config['announce_interval'] * 60 >= startOffset and uid not in sent:
                             message_text = config.get('message_text', 'Meine Sendung {show} auf {station} startet am {startTime} Uhr')
                             message = message_text.format(show=show, station=station, startTime=startTime)
                             logger.info(
-                                f"[{station}] Die Show {show} von {dj} auf {station} startet um {startTime} bis {endTime} - UID: {uid}")
+                                f"Message sent: {config.get('message_text', 'Meine Sendung {show} auf {station} startet am {startTime} Uhr')} - ShowUID={uid}")
                             telegram_public_message(message)
                             sent.append(uid)
                             with open("cache/mi.json", "w") as sentShows:

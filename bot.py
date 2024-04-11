@@ -62,7 +62,7 @@ for station, id in stations.items():
 
 #NUR FÜR DICH, AYBEE! <3
 def remaining_minutes(start_time):
-    current_time = datetime.datetime.now()
+    current_time = datetime.now()
     delta = start_time - current_time
     return int(delta.total_seconds() / 60)
 
@@ -116,7 +116,8 @@ def check():
                     )
                     startOffset = startUnix - now
                     #NUR FÜR DICH, AYBEE! <3
-                    startmin = remaining_minutes(startUnix)
+                    start_time = datetime.fromtimestamp(startUnix)
+                    startmin = remaining_minutes(start_time)
                     if x["m"] in config["public_djs"]:
                         logger.info(f"{show} by {dj} at {station} found from {startTime} to {endTime} - {startmin} Minutes remaining") 
                     if x["m"] in config["public_djs"] and startUnix > now:

@@ -509,3 +509,22 @@
 [ 2024-04-09 08:44:35,873 - INFO ] https://api.weareone.fm/v1/showplan/11/1
 [ 2024-04-09 08:44:35,873 - INFO ] https://api.weareone.fm/v1/showplan/13/1
 [ 2024-04-09 08:44:35,873 - INFO ] https://api.weareone.fm/v1/showplan/14/1
+[ 2024-04-11 11:59:44,073 - INFO ] Bot gestartet.
+[ 2024-04-11 12:02:27,136 - INFO ] Bot gestartet.
+[ 2024-04-11 12:02:27,239 - INFO ] [TechnoBase.FM] STATUS 200 von https://api.weareone.fm/v1/showplan/5/1
+[ 2024-04-11 12:06:04,829 - INFO ] Bot gestartet.
+[ 2024-04-11 12:06:04,949 - INFO ] [TechnoBase.FM] STATUS 200 von https://api.weareone.fm/v1/showplan/5/1
+[ 2024-04-11 12:07:06,055 - INFO ] Bot gestartet.
+[ 2024-04-11 12:07:06,160 - INFO ] [TechnoBase.FM] STATUS 200 von https://api.weareone.fm/v1/showplan/5/1
+[ 2024-04-11 12:07:34,620 - INFO ] Bot gestartet.
+[ 2024-04-11 12:07:34,734 - INFO ] [TechnoBase.FM] STATUS 200 von https://api.weareone.fm/v1/showplan/5/1
+[ 2024-04-11 12:10:27,112 - INFO ] Bot gestartet.
+[ 2024-04-11 12:10:27,246 - INFO ] [TechnoBase.FM] STATUS 200 von https://api.weareone.fm/v1/showplan/5/1
+[ 2024-04-11 12:10:27,405 - INFO ] [HouseTime.FM] STATUS 200 von https://api.weareone.fm/v1/showplan/6/1
+[ 2024-04-11 12:10:27,573 - INFO ] [HardBase.FM] STATUS 200 von https://api.weareone.fm/v1/showplan/7/1
+[ 2024-04-11 12:10:27,741 - INFO ] [TranceBase.FM] STATUS 200 von https://api.weareone.fm/v1/showplan/8/1
+[ 2024-04-11 12:10:27,890 - INFO ] [CoreTime.FM] STATUS 200 von https://api.weareone.fm/v1/showplan/10/1
+[ 2024-04-11 12:10:28,050 - INFO ] [ClubTime.FM] STATUS 200 von https://api.weareone.fm/v1/showplan/11/1
+[ 2024-04-11 12:10:28,242 - INFO ] [TeaTime.FM] STATUS 200 von https://api.weareone.fm/v1/showplan/13/1
+[ 2024-04-11 12:10:28,390 - INFO ] [Replay.FM] STATUS 200 von https://api.weareone.fm/v1/showplan/14/1
+[ 2024-04-11 12:10:28,430 - INFO ] Waiting for 60 seconds...

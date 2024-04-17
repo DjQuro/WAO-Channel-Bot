@@ -4,16 +4,17 @@ FROM python:3.9-slim
 # Setze die Zeitzone
 ENV TZ=Europe/Berlin
 
+# Installiere Git
+RUN apt-get update && apt-get install -y git
+
 # Setze das Arbeitsverzeichnis im Container
 WORKDIR /app
 
-# Kopiere die Skriptdateien in das Arbeitsverzeichnis
-COPY bot.py .
-COPY start.sh .
+# Clone das Git-Repository
+RUN git clone <repository_url> .
 
 # Installiere die erforderlichen Python-Abhängigkeiten
-RUN apt-get update && apt-get install -y git
-RUN pip install requests
+RUN pip install -r requirements.txt
 
 # Definiere den Befehl, der ausgeführt wird, wenn der Container gestartet wird
 CMD ["sh", "start.sh"]

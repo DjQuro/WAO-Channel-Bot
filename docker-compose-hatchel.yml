@@ -1,0 +1,14 @@
+version: '3'
+services:
+  wao-channel-bot-hatchel:
+    image: quroneko/wao-channel-bot
+    environment:
+      - BOT_TOKEN=6229923375:AAFsREoZXlT_CJy3f5O9C2ubhKaCwQOtZWY
+      - PUBLIC_CHAT=-1001582736088
+      - MESSAGE_FORMAT=Markdown
+      - ANNOUNCE_INTERVAL=30
+      - MESSAGE_TEXT='Meine Sendung {show} auf {station} startet am {startTime} Uhr'
+      - BASE_URL='https://api.weareone.fm/v1/showplan/{station}/1'
+      - PUBLIC_DJS=Hatchel
+    volumes:
+      - /opt/wao-channel-bot:/app

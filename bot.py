@@ -146,7 +146,7 @@ def check():
         logger.error("Verbindungsfehler aufgetreten. Versuche es erneut.")
 
 # Startnachricht loggen
-logger.info("Bot gestartet.")
+logger.info("Bot gestartet - v.2.3")
 
 # Dauerschleife mit Wartezeit
 while True:

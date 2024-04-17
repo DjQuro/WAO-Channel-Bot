@@ -147,9 +147,9 @@ def check():
 
 # Startnachricht loggen
 logger.info("Bot gestartet - v.2.3")
+logger.info(f"Token: {bot_token} ChatID: {publicChat} DJs: {public_dj} First Announce {announce_interval} before Show")
 
 # Dauerschleife mit Wartezeit
 while True:
     check()
-    logger.info("Waiting for 60 seconds...")
     time.sleep(60)  # Pause für 60 Sekunden

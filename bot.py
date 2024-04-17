@@ -80,7 +80,6 @@ def check():
             # Check the response status code
             status = str(response.status_code)
             if response.status_code == 200:
-                logger.info(f"[{station}] STATUS {status} von {endpoint_url}")
                 # Parse the JSON data from the response
                 with urllib.request.urlopen(endpoint_url) as url:
                     data = json.load(url)
@@ -118,16 +117,14 @@ def check():
                     #NUR FÜR DICH, AYBEE! <3
                     start_time = datetime.fromtimestamp(startUnix)
                     startmin = remaining_minutes(start_time)
-                    if x["m"] in config["public_djs"]:
-                        logger.info(f"{show} by {dj} at {station} found from {startTime} to {endTime} - {startmin} Minutes remaining") 
                     if x["m"] in config["public_djs"] and startUnix > now:
                         uid = x["mi"] + x["s"] + x["e"]
                         if config['announce_interval'] * 60 >= startOffset and uid not in sent:
                             message_text = config.get('message_text', 'Meine Sendung {show} auf {station} startet am {startTime} Uhr')
                             message = message_text.format(show=show, station=station, startTime=startTime, startmin=startmin)
-                            logger.info(
-                                f"Message sent: {config.get('message_text', 'Meine Sendung {show} auf {station} startet am {startTime} Uhr')} - ShowUID={uid}")
+                            logger.info(f"Preparing - {message} with {bot_token} to {publicCha} in {message_format} Format)
                             telegram_public_message(message)
+                            logger.info(f"Message sent for {x['m']} {show}@{station} with ShowUID={uid}")
                             sent.append(uid)
                             with open("cache/mi.json", "w") as sentShows:
                                 data = {

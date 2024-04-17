@@ -11,7 +11,7 @@ RUN apt-get update && apt-get install -y git
 WORKDIR /app
 
 # Clone das Git-Repository
-RUN git clone <repository_url> .
+RUN git clone https://github.com/DjQuro/WAO-Channel-Bot.git .
 
 # Installiere die erforderlichen Python-Abhängigkeiten
 RUN pip install -r requirements.txt

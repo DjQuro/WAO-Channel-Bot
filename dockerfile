@@ -12,6 +12,7 @@ COPY bot.py .
 COPY start.sh .
 
 # Installiere die erforderlichen Python-Abhängigkeiten
+RUN apt-get update && apt-get install -y git
 RUN pip install requests
 
 # Definiere den Befehl, der ausgeführt wird, wenn der Container gestartet wird

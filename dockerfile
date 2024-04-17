@@ -14,7 +14,7 @@ WORKDIR /app
 RUN git clone https://github.com/DjQuro/WAO-Channel-Bot.git .
 
 # Installiere die erforderlichen Python-Abhängigkeiten
-RUN pip install -r requirements.txt
+RUN pip install requests
 
 # Definiere den Befehl, der ausgeführt wird, wenn der Container gestartet wird
 CMD ["sh", "start.sh"]

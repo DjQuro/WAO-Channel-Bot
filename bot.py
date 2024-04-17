@@ -146,8 +146,8 @@ def check():
         logger.error("Verbindungsfehler aufgetreten. Versuche es erneut.")
 
 # Startnachricht loggen
-logger.info("Bot gestartet - v.2.3")
-logger.info(f"Token: {bot_token} ChatID: {publicChat} DJs: {public_dj} First Announce {announce_interval} before Show")
+logger.info("Bot gestartet - v.2.4")
+logger.info(f"Token: {config['bot_token']} ChatID: {config['publicChat']} DJs: {config['public_dj']} First Announce {config['announce_interval']} before Show")
 
 # Dauerschleife mit Wartezeit
 while True:

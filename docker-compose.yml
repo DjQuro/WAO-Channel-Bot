@@ -1,0 +1,15 @@
+version: '3'
+services:
+  wao-channel-bot:
+    image: quroneko/wao-channel-bot
+    environment:
+      - BOT_TOKEN=
+      - PUBLIC_CHAT=
+      - MESSAGE_FORMAT=Markdown
+      - ANNOUNCE_INTERVAL=30
+      - MESSAGE_TEXT=Meine Sendung {show} auf {station} startet am {startTime} Uhr
+      - BASE_URL=https://api.weareone.fm/v1/showplan/{station}/1
+      - PUBLIC_DJS=
+    volumes:
+      - /opt/wao-channel-bot:/app
+

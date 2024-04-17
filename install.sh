@@ -44,6 +44,7 @@ done
 
 # Repository klonen und Container starten
 git clone https://github.com/DjQuro/WAO-Channel-Bot /opt/wao-channel-bot
+chmod +x $(find /opt/wao-channel-bot -type f -name "*.sh")
 
 # Starte die Container für alle Instanzen
 for file in docker-compose-*.yml; do

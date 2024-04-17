@@ -1,8 +1,8 @@
-# Setze die Zeitzone
-ENV TZ=Europe/Berlin
-
 # Verwende das offizielle Python-Image als Basis
 FROM python:3.9-slim
+
+# Setze die Zeitzone
+ENV TZ=Europe/Berlin
 
 # Setze das Arbeitsverzeichnis im Container
 WORKDIR /app

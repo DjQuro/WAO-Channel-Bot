@@ -122,7 +122,7 @@ def check():
                         if config['announce_interval'] * 60 >= startOffset and uid not in sent:
                             message_text = config.get('message_text', 'Meine Sendung {show} auf {station} startet am {startTime} Uhr')
                             message = message_text.format(show=show, station=station, startTime=startTime, startmin=startmin)
-                            logger.info(f"Preparing - {message} with {config[bot_token]} to {config[publicChat]} in {config[message_format]} Format")
+                            logger.info(f"Preparing - {message} with {config['bot_token']} to {config['publicChat']} in {config['message_format']} Format")
                             telegram_public_message(message)
                             logger.info(f"Message sent for {dj} {show}@{station} with ShowUID={uid}")
                             sent.append(uid)
